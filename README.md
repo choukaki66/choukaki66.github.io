@@ -7,4 +7,7 @@ Currently researching how Taiwanese fans of *Golden Kamuy* experience Hokkaido a
 📍 Sapporo, Hokkaido, Japan  
 📧 chiachi.chang.g6@elms.hokudai.ac.jp　👈Here is my email. Feel free to contact me!
 
+Met Mt. Yotei and Lake Tōya last winter. Can’t wait to explore more places🌞
 ![Image](https://github.com/user-attachments/assets/5ab87beb-b2ed-456d-82a1-09780a37fb6d)
+
+よろしくお願いします！
