@@ -1,4 +1,4 @@
-Hi, I'm Chang Chiachi.👋
+Hi, I'm Chang Chiachi👋
 Currently researching how Taiwanese fans of *Golden Kamuy* experience Hokkaido and interpret its culture and history.  
 
 💟Passionate about Japanese manga and music!  
