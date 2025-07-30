@@ -2,6 +2,7 @@ theme: jekyll-theme-slate
 title: The homepage of Chang Chiachi
 description: This is the page of Chang Chiachi. A master student in tourism studies.
 plugins:
-Nice to meet you! I'm Chang Chiachi from Taiwan!
+##Nice to meet you! I'm Chang Chiachi from Taiwan!
+📧chiachi.chang.g6@elms.hokudai.ac.jp 👈Here is my email. Feel free to contact me!
 url: "https://choukaki66.github.io/"
 markdown: kramdown
