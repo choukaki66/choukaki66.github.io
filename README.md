@@ -7,4 +7,4 @@ Currently researching how Taiwanese fans of *Golden Kamuy* experience Hokkaido a
 📍 Sapporo, Hokkaido, Japan  
 📧 chiachi.chang.g6@elms.hokudai.ac.jp　👈Here is my email. Feel free to contact me!
 
-IMG_0080.JPG
+  !(images/IMG_0080.JPG)
